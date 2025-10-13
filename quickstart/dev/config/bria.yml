@@ -6,3 +6,5 @@ tracing:
   host: "otel-agent"
   port: 4318
   service_name: "bria-dev"
+
+# Update: 2025-10-14
